@@ -1,4 +1,4 @@
-# chatgpt集成siri快捷指令下载
+# chatGPT集成Siri快捷指令下载
 直接下载本库zip 或者到以下地址下载 下载地址>>> https://bit.ly/3ZJa2rA
 下载后Siri-chatGPT.shortcut.zip, 
 解压放在icloud文件里就行,
